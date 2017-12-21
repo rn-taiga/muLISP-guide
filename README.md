@@ -1,7 +1,7 @@
 ## muLISP-guide
-### _This repository contains a guide for muLISP compiler._ 
-The guide is located in the [wiki](https://github.com/RN-S1/muLISP-guide/wiki) section.  
-The wiki is written in Russian language.
+### _Этот репозиторий содержит руководство по использованию компилятора muLISP._ 
+Руководство расположени в секции [wiki](https://github.com/RN-S1/muLISP-guide/wiki).  
+The Wiki is written in Russian language.
 
 
 <i>forked from</i><br>
